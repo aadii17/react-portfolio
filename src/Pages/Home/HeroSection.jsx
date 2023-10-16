@@ -1,3 +1,5 @@
+import resume from ''../../../public/Aadarsh_Choudhari_Resume.pdf;
+
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
