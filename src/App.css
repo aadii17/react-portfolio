@@ -540,6 +540,9 @@ select::-ms-expand {
 }
 
 @media only screen and (max-width: 1200px) {
+  .skills--section--description{
+  font-size: 15px;
+  }
   .footer-navv{
     display: none;
   }
@@ -554,8 +557,8 @@ select::-ms-expand {
     margin-top: 0%;
     margin-left: 0%;
     margin-right: 0%;
-    padding-left: 0%;
-    padding-right: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
   }
   .hero--section--title,
   .hero--section-description,
@@ -573,6 +576,11 @@ select::-ms-expand {
   .footer--content--container {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
   }
   .footer--items {
     padding: 30px;
