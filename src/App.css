@@ -198,6 +198,7 @@ h2 {
 }
 .skills--section--card:hover {
   border-bottom: 4px solid var(--primary);
+  border-top: 4px solid var(--primary);
 }
 .skills--section--card:hover .skills--section--description {
   color: var(--primary);
