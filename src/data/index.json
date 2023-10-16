@@ -1,0 +1,68 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/skill1.png",
+      "title": "Front-End",
+      "description": "I can work with HTML5, CSS3, Javascript, React JS and Wordpress to create interactive front Ends."
+    },
+    {
+      "id": "2",
+      "src": "./img/skill2.png",
+      "title": "Back-End",
+      "description": "I use NodeJS, express JS, Mongo DB, Php, My SQL, C# and Asp.Net to provide the Functionalities to Projects."
+    },
+    {
+      "id": "3",
+      "src": "./img/skill3.png",
+      "title": "UI & UX Design",
+      "description": "I Can Work With Various Designing Softwares Like Adobe Photoshop, Adobe Illustrator, Canva and Prototyping Tools Like Figma and Adobe XD."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/g1.png",
+      "title": "TravelHolic",
+      "link": "View In Github",
+      "url": "https://github.com/aadii17/TravelHolic.git"
+    },
+    {
+      "id": "2",
+      "src": "./img/g2.jpg",
+      "title": "Resume Builder",
+      "link": "View In Github",
+      "url": "https://github.com/aadii17/ResumeBuilder.git"
+    },
+    {
+      "id": "3",
+      "src": "./img/g3.jpg",
+      "title": "Static Portfolio Template",
+      "link": "View In Github",
+      "url": "https://github.com/aadii17/Portfolio.git"
+    },
+    {
+      "id": "4",
+      "src": "./img/f3.jpg",
+      "title": "JS Practice Projects",
+      "link": "View on Drive",
+      "url": "https://drive.google.com/drive/folders/1PtWzo_-h1qUJocvND3ZjSLLFq-knzctL?usp=sharing"
+    },
+    {
+      "id": "5",
+      "src": "./img/f2.jpg",
+      "title": "Blood Bank App Design",
+      "link": "View on Figma",
+      "url": "https://www.figma.com/file/UOoLw7pLzrFUu61zZiURNk/Blood-Bank?type=design&node-id=0%3A1&mode=design&t=dNeP1NIXtZDbAzSq-1"
+    },
+    {
+      "id": "6",
+      "src": "./img/f1.jpg",
+      "title": "Food Delivery App Design",
+      "link": "View on Figma",
+      "url": "https://www.figma.com/file/q3FgpyQQQVNkmghtfYiGAI/Untitled?type=design&mode=design&t=dNeP1NIXtZDbAzSq-1"
+    }
+  ]
+  
+}
+
