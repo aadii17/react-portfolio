@@ -193,7 +193,7 @@ h2 {
   gap: 32px;
   flex: 1 0 0;
   border-radius: 10.6px;
-  background: var(--bg-shade);
+  background: var(--whitw);
   min-height: 250px;
 }
 .skills--section--card:hover {
@@ -221,13 +221,13 @@ h2 {
   align-self: stretch;
 }
 .skills--section--title {
-  color: var(--white);
+  color: var(--black);
   font-size: 32px;
   font-weight: 700;
   line-height: 45px;
 }
 .skills--section--description {
-  color: var(--white);
+  color: var(--black);
   font-size: 21.3px;
   font-style: normal;
   font-weight: 400;
