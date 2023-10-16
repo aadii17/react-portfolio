@@ -1,6 +1,15 @@
 
 
 export default function HeroSection() {
+  const onButtonClick = () => {
+        const pdfUrl = "Resume.pdf";
+        const link = document.createElement("a");
+        link.href = pdfUrl;
+        link.download = "document.pdf"; // specify the filename
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
@@ -17,7 +26,7 @@ export default function HeroSection() {
           </p>
         </div>
         <div className="btn-hero">
-        <button className="btn btn-primary">Download Resume</button>
+        <button className="btn btn-primary" onClick={onButtonClick}>Download Resume</button>
         </div>
       </div>
       
